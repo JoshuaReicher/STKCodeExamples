@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<AGIRegistry version = "1.0">
+   <CategoryRegistry>
+        <Category Name = "UiPlugins">
+           <NETUiPlugin 
+                DisplayName="FOM Graphics Auto Update"
+                TypeName="UiPlugin.FomGfxUpdater"
+                AssemblyName="UiPlugin.FomGfxUpdater"
+                CodeBase="C:\GitHub\CodeRepository\StkUiPlugins\CSharp\FomGfxUpdater\Stk11.UiPlugin.FomGfxUpdater\UiPlugin.FomGfxUpdater\bin\Debug">
+           </NETUiPlugin>
+	</Category>
+   </CategoryRegistry>
+</AGIRegistry>
