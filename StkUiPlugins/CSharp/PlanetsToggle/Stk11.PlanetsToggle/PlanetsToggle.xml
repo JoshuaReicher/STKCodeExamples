@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<AGIRegistry version = "1.0">
+   <CategoryRegistry>
+        <Category Name = "UiPlugins">
+           <NETUiPlugin 
+                DisplayName="Planets Toggle"
+                TypeName="Stk11.PlanetsToggle.PlanetsTogglePlugin"
+                AssemblyName="Stk11.PlanetsToggle"
+                CodeBase="C:\GitHub\CodeRepository\StkUiPlugins\CSharp\PlanetsToggle\Stk11.PlanetsToggle\bin\Debug">
+           </NETUiPlugin>
+	</Category>
+   </CategoryRegistry>
+</AGIRegistry>
+
+
